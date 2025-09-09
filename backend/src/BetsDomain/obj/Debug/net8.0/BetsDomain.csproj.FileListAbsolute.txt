@@ -9,3 +9,4 @@ C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsDomain\obj\Debug
 C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsDomain\obj\Debug\net8.0\refint\BetsDomain.dll
 C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsDomain\obj\Debug\net8.0\BetsDomain.pdb
 C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsDomain\obj\Debug\net8.0\ref\BetsDomain.dll
+C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsDomain\obj\Debug\net8.0\BetsDomain.sourcelink.json

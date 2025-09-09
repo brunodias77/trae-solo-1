@@ -17,3 +17,4 @@ C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsInfrastructure\o
 C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsInfrastructure\obj\Debug\net8.0\BetsInfrastructure.pdb
 C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsInfrastructure\obj\Debug\net8.0\BetsInfrastructure.genruntimeconfig.cache
 C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsInfrastructure\obj\Debug\net8.0\ref\BetsInfrastructure.dll
+C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsInfrastructure\obj\Debug\net8.0\BetsInfrastructure.sourcelink.json

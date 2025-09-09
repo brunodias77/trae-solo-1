@@ -133,3 +133,6 @@ C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsAPI\obj\Debug\ne
 C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsAPI\obj\Debug\net8.0\BetsAPI.pdb
 C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsAPI\obj\Debug\net8.0\BetsAPI.genruntimeconfig.cache
 C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsAPI\obj\Debug\net8.0\ref\BetsAPI.dll
+C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsAPI\obj\Debug\net8.0\BetsAPI.sourcelink.json
+C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsAPI\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsAPI\bin\Debug\net8.0\Sprache.dll

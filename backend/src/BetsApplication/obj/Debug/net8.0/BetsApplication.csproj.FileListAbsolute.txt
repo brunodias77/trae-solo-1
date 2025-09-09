@@ -13,3 +13,4 @@ C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsApplication\obj\
 C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsApplication\obj\Debug\net8.0\refint\BetsApplication.dll
 C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsApplication\obj\Debug\net8.0\BetsApplication.pdb
 C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsApplication\obj\Debug\net8.0\ref\BetsApplication.dll
+C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsApplication\obj\Debug\net8.0\BetsApplication.sourcelink.json

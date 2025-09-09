@@ -12,6 +12,9 @@ using FluentValidation;
 using FluentValidation.AspNetCore;
 using BetsApplication.Validators.Auth;
 
+// Load .env file
+DotNetEnv.Env.Load();
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container
@@ -71,11 +74,11 @@ builder.Services.AddScoped<IJwtService, JwtService>();
 // Add Identity Password Hasher
 builder.Services.AddScoped<IPasswordHasher<User>, PasswordHasher<User>>();
 
-// Configure JWT Authentication
+// Configure JWT Authentication - Use environment variables with fallback to appsettings
 var jwtSettings = builder.Configuration.GetSection("Jwt");
-var secretKey = jwtSettings["SecretKey"] ?? throw new InvalidOperationException("JWT SecretKey not configured");
-var issuer = jwtSettings["Issuer"] ?? throw new InvalidOperationException("JWT Issuer not configured");
-var audience = jwtSettings["Audience"] ?? throw new InvalidOperationException("JWT Audience not configured");
+var secretKey = Environment.GetEnvironmentVariable("JWT_SECRET_KEY") ?? jwtSettings["SecretKey"] ?? throw new InvalidOperationException("JWT SecretKey not configured");
+var issuer = Environment.GetEnvironmentVariable("JWT_ISSUER") ?? jwtSettings["Issuer"] ?? throw new InvalidOperationException("JWT Issuer not configured");
+var audience = Environment.GetEnvironmentVariable("JWT_AUDIENCE") ?? jwtSettings["Audience"] ?? throw new InvalidOperationException("JWT Audience not configured");
 
 builder.Services.AddAuthentication(options =>
 {
