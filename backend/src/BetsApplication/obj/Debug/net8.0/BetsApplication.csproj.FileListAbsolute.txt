@@ -1,0 +1,15 @@
+C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsApplication\bin\Debug\net8.0\BetsApplication.deps.json
+C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsApplication\bin\Debug\net8.0\BetsApplication.dll
+C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsApplication\bin\Debug\net8.0\BetsApplication.pdb
+C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsApplication\bin\Debug\net8.0\BetsDomain.dll
+C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsApplication\bin\Debug\net8.0\BetsDomain.pdb
+C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsApplication\obj\Debug\net8.0\BetsApplication.csproj.AssemblyReference.cache
+C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsApplication\obj\Debug\net8.0\BetsApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsApplication\obj\Debug\net8.0\BetsApplication.AssemblyInfoInputs.cache
+C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsApplication\obj\Debug\net8.0\BetsApplication.AssemblyInfo.cs
+C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsApplication\obj\Debug\net8.0\BetsApplication.csproj.CoreCompileInputs.cache
+C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsApplication\obj\Debug\net8.0\BetsAppl.6A37AB7F.Up2Date
+C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsApplication\obj\Debug\net8.0\BetsApplication.dll
+C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsApplication\obj\Debug\net8.0\refint\BetsApplication.dll
+C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsApplication\obj\Debug\net8.0\BetsApplication.pdb
+C:\Users\bruno.dias\Documents\bruno\trae-solo-1\backend\src\BetsApplication\obj\Debug\net8.0\ref\BetsApplication.dll

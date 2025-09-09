@@ -1,0 +1,36 @@
+{
+  "name": "football-bets-app",
+  "version": "1.0.0",
+  "description": "Sistema completo para gerenciamento de apostas de futebol",
+  "private": true,
+  "scripts": {
+    "frontend:install": "cd frontend && npm install",
+    "frontend:dev": "cd frontend && npm start",
+    "frontend:build": "cd frontend && npm run build",
+    "backend:restore": "cd backend && dotnet restore",
+    "backend:dev": "cd backend/src/BetsApi && dotnet run",
+    "backend:build": "cd backend && dotnet build",
+    "backend:migrate": "cd backend/src/BetsApi && dotnet ef database update",
+    "docker:up": "docker-compose up -d",
+    "docker:down": "docker-compose down",
+    "docker:build": "docker-compose build",
+    "setup": "npm run frontend:install && npm run backend:restore",
+    "dev": "concurrently \"npm run backend:dev\" \"npm run frontend:dev\"",
+    "start": "npm run docker:up"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "football",
+    "betting",
+    "angular",
+    "dotnet",
+    "postgresql"
+  ],
+  "author": "Bruno Dias",
+  "license": "MIT"
+}
